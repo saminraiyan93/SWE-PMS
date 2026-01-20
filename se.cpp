@@ -2,6 +2,7 @@
 using namespace std
 int main()
 {
-cout<<"Se project";
+cout<<"Se project arif
+";
 return 0;
 }
